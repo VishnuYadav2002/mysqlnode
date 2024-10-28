@@ -23,6 +23,6 @@ router.get('/category/:id', getCategoryByID);
 //Create Category || POST
 router.post('/createCategory' , createCategory)
 
-
+// Post api for slider
 
 module.exports = router
